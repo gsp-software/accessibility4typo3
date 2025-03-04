@@ -30,13 +30,13 @@ After successfully installing the extension and activating the  widget using the
 
 #### Widget on Website
 
-![Overview](./Documentation/Images/overview.jpg)
+<img src="./Documentation/Images/overview.png" alt="Overview" width="500">
 
 The Huerdenlos.Assist widget is a small icon on your website.
 
 #### Widget Icon Active on Website
 
-![Widget in desktop view](./Documentation/Images/widget-desktop.png)
+<img src="./Documentation/Images/widget-desktop.png" alt="Widget in desktop view" width="500">
 
 The Huerdenlos.Assist widget icon displayed on the bottom corner of a website.
 
@@ -48,19 +48,19 @@ The Huerdenlos.Assist widget icon displayed on on a mobile version of a website.
 
 #### Expanded Widget on Website
 
-![Widget in mobile view open](./Documentation/Images/widget-mobile-open.png)
+<img src="./Documentation/Images/widget-mobile-open.png" alt="Widget in mobile view open" width="300">
 
 The expanded Huerdenlos.Assist widget showing accessibility options.
 
 #### Vision-Impaired Profile Active
 
-![Widget in desktop view opened](./Documentation/Images/widget-desktop-open.png)
+<img src="./Documentation/Images/widget-desktop-open.png" alt="Widget in desktop view opened" style="width: 100%">
 
 The widget in action with settings optimized for users with visual impairments (e.g., larger text, higher contrast).
 
 #### ADHD Profile Active
 
-![Widget in action](./Documentation/Images/reading.png)
+<img src="./Documentation/Images/reading.png" alt="Widget in action" width="600">
 
 The widget activated with focus-enhancing features for users with ADHD (e.g., simplified content, focus mode).
 
