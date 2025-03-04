@@ -1,0 +1,30 @@
+{
+    "name": "gsp/accessibility4typo3",
+    "description": "Accessibility tool that integrates into your website to enhance usability for all visitor utilizing AI",
+    "type": "typo3-cms-extension",
+    "license": [
+        "GPL-2.0-or-later"
+    ],
+    "authors": [
+        {
+            "name": "Dietmar Schäffer",
+            "email": "info@gsp-software.eu",
+            "homepage": "https://gsp-software.eu/hurdenlosassist/",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "typo3/cms-core": "^10.4 || ^11.5 || ^12.4 || ^13.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Gsp\\Accessibility4typo3\\": "Classes/"
+        }
+    },
+    "extra": {
+        "typo3/cms": {
+            "extension-key": "accessibility4typo3",
+            "readme": "README.md"
+        }
+    }
+}

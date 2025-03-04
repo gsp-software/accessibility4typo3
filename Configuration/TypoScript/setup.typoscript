@@ -1,0 +1,22 @@
+######################
+#### DEPENDENCIES ####
+######################
+
+plugin.accessibility4typo3 {
+	sitekey {
+		10 = {$plugin.accessibility4typo3.sitekey}
+	}
+}
+
+
+
+
+page = PAGE
+page {
+    headerData {
+    	10 = TEXT
+    	10.value (
+			<script>window.interdeal = {"sitekey":"{$plugin.accessibility4typo3.sitekey}","Position":"{$plugin.accessibility4typo3.position}","domains":{"js":"https://cdn.equalweb.com/","acc":"https://access.equalweb.com/"},"Menulang":"DE","btnStyle":{"vPosition":["{$plugin.accessibility4typo3.vPosition.desktop}","{$plugin.accessibility4typo3.vPosition.mobile}"],"scale":["0.5","0.5"],"color":{"main":"{$plugin.accessibility4typo3.color.main}","second":"{$plugin.accessibility4typo3.color.second}"},"icon":{"outline":false,"type":11,"shape":"circle"}}};(function(doc, head, body){var coreCall=doc.createElement('script');coreCall.src=interdeal.domains.js+'core/5.0.10/accessibility.js';coreCall.defer=true;coreCall.integrity='sha512-gKQdQe59Hw864B9Pbxo+0aPeJJQdKODsfg0Vwf+zIQcRS7uR+kd3oEX3ClAdDERLQbO5LmliXmzjNjrxkP5wgA==' ;coreCall.crossOrigin='anonymous';coreCall.setAttribute('data-cfasync',true);body?body.appendChild(coreCall):head.appendChild(coreCall);})(document, document.head, document.body);</script>
+    	)
+    }
+}

@@ -1,0 +1,28 @@
+############################
+### CUSTOM SUBCATEGORIES ###
+############################
+# customsubcategory=800=Configuration Parameters
+
+
+plugin.accessibility4typo3 {
+
+	# cat=accessibility4typo3: parameters/800/100; type=string; label=Sitekey
+	sitekey = YOURSITEKEY
+
+	# cat=accessibility4typo3: parameters/800/100; type=options[left, right]; label=Horizontal position of widget (left, right)
+	position = left
+
+	# cat=accessibility4typo3: parameters/800/100; type=string; label=Vertical position of widget for desktop (10% .. 100%)
+	vPosition.desktop = 50%
+
+	# cat=accessibility4typo3: parameters/800/100; type=string; label=Vertical position of widget for mobile (10% .. 100%)
+	vPosition.mobile = 80%
+
+	# cat=accessibility4typo3: parameters/800/100; type=color; label=Main color of widget (#1c4bb6)
+	color.main = #1c4bb6
+
+	# cat=accessibility4typo3: parameters/800/100; type=color; label=Second color of widget (#1c4bb6)
+	color.second = #ffffff
+
+}
+
