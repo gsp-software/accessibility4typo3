@@ -8,7 +8,7 @@ Welcome to the manual of the extension accessibility4typo3.
 
 ### What does it do?
 
-In todays digital world, accessibility is not a luxury, its a  necessity. accessibility4typo3  with Huerdenlos.Assist empowers you to make your Typo3 website more  inclusive and welcoming for everyone, regardless of their abilities.  This powerful plugin seamlessly integrates the Huerdenlos.Assist widget  into your website, using smart technology to provide assistance for  users with diabilities. This ensures that your content is easier to  navigate  and interact with for people with disabilities, seniors, and anyone who  benefits from a more user-friendly design.
+In today's digital world, accessibility is not a luxury, it's a  necessity. accessibility4typo3  with Huerdenlos.Assist empowers you to make your Typo3 website more  inclusive and welcoming for everyone, regardless of their abilities.  This powerful plugin seamlessly integrates the Huerdenlos.Assist widget  into your website, using smart technology to provide assistance for  users with disabilities. This ensures that your content is easier to  navigate  and interact with for people with disabilities, seniors, and anyone who  benefits from a more user-friendly design.
 
 ### Usage
 
@@ -74,7 +74,7 @@ Go to extension manager in TYPO3 backend, choose "install  extension" and search
 
 ### Installation using composer
 
-The extension is not availabel in a public repository, but  nevertheless it can be installed using composer. Add a section for a  local istall of packages like this:
+The extension is not available in a public repository, but  nevertheless it can be installed using composer. Add a section for a  local install of packages like this:
 
 ```
 "repositories": [
@@ -193,7 +193,7 @@ The values can be changed using the constant editor of TYPO3
 
 ## Known problems
 
-Currently the parameter plugin.accessibility4typo3.position left/right has no effect.
+Currently, the parameter plugin.accessibility4typo3.position left/right has no effect.
 
 ​                
 
