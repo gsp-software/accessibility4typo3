@@ -30,7 +30,7 @@ After successfully installing the extension and activating the  widget using the
 
 #### Widget on Website
 
-<img src="./Documentation/Images/overview.png" alt="Overview" width="500">
+<img src="./Documentation/Images/overview.jpg" alt="Overview" width="500">
 
 The Huerdenlos.Assist widget is a small icon on your website.
 
