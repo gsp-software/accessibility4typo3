@@ -2,6 +2,10 @@
     "name": "gsp/accessibility4typo3",
     "description": "Accessibility tool that integrates into your website to enhance usability for all visitor utilizing AI",
     "type": "typo3-cms-extension",
+    "homepage": "https://github.com/gsp-software/accessibility4typo3",
+    "support": {
+        "docs": "https://github.com/gsp-software/accessibility4typo3/README.md"
+    },
     "license": [
         "GPL-2.0-or-later"
     ],
