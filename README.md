@@ -42,7 +42,7 @@ The Huerdenlos.Assist widget icon displayed on the bottom corner of a website.
 
 #### Widget Icon on Mobile Version
 
-![Widget in mobile view](./Documentation/Images/widget-mobile.png)
+<img src="./Documentation/Images/widget-mobile.png" alt="Widget in mobile view" width="300">
 
 The Huerdenlos.Assist widget icon displayed on on a mobile version of a website.
 
