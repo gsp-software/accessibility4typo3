@@ -6,4 +6,4 @@
 Known problems
 ==============
 
-Currently the parameter plugin.accessibility4typo3.position left/right has no effect.
+Currently, the parameter plugin.accessibility4typo3.position left/right has no effect.

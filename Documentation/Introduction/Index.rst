@@ -11,9 +11,9 @@ Introduction
 What does it do?
 ================
 
-In todays digital world, accessibility is not a luxury, its a necessity. accessibility4typo3 
-with Huerdenlos.Assist empowers you to make your Typo3 website more inclusive and welcoming for everyone, regardless of their abilities. 
-This powerful plugin seamlessly integrates the Huerdenlos.Assist widget into your website, using smart technology to provide assistance for users with diabilities. This ensures that your content is easier to navigate 
+In today's digital world, accessibility is not a luxury, its a necessity. accessibility4typo3
+with Huerdenlos.Assist empowers you to make your Typo3 website more inclusive and welcoming for everyone, regardless of their abilities.
+This powerful plugin seamlessly integrates the Huerdenlos.Assist widget into your website, using smart technology to provide assistance for users with disabilities. This ensures that your content is easier to navigate
 and interact with for people with disabilities, seniors, and anyone who benefits from a more user-friendly design.  
 
 

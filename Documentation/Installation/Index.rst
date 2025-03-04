@@ -14,7 +14,7 @@ Go to extension manager in TYPO3 backend, choose "install extension" and search 
 Installation using composer
 ===
 
-The extension is not availabel in a public repository, but nevertheless it can be installed using composer. Add a section for a local istall of packages like this:
+The extension is not available in a public repository, but nevertheless it can be installed using composer. Add a section for a local install of packages like this:
 
 ..  code-block:: json
 	"repositories": [
