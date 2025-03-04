@@ -1,3 +1,7 @@
+name: test documentation
+
+on: [ push, pull_request ]
+
 jobs:
   tests:
     name: documentation
