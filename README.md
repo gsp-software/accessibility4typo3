@@ -121,25 +121,25 @@ The values can be changed using the constant editor of TYPO3
 - Default: left
 - Choose where the widget is displayed on the website. The values can be `left` or `right`                     
 
-### vPosition.desktop
+#### vPosition.desktop
 
 - Type: string
 - Default: 50%
 - Choose the vertical position where the widget is displayed on the website in desktop view                     
 
-### vPosition.mobile
+#### vPosition.mobile
 
 - Type: string
 - Default: 80%
 - Choose the vertical position where the widget is displayed on the website in mobile view                     
 
-### color.main
+#### color.main
 
 - Type: string
 - Default: #1c4bb6
 - The main color or the widget                     
 
-### color.second
+#### color.second
 
 - Type: string
 - Default: #ffffff
@@ -200,8 +200,3 @@ Currently the parameter plugin.accessibility4typo3.position left/right has no ef
 - [Home](https://gsp-software.eu/hurdenlosassist/)
 - [Issues](https://github.com/gsp-software/accessibility4typo3/issues)
 - [Repository](https://github.com/gsp-software/accessibility4typo3)
-
-​       
-
-- [Legal Notice](https://typo3.org/legal-notice)
-- [Privacy Policy](https://typo3.org/privacy-policy)
